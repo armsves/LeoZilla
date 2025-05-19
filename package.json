@@ -22,6 +22,7 @@
     "@heroicons/react": "^2.1.1",
     "@octokit/rest": "^21.1.1",
     "@prisma/client": "^5.10.2",
+    "@radix-ui/react-slot": "^1.2.2",
     "@rainbow-me/rainbowkit": "^2.2.5",
     "@stellar/stellar-sdk": "^11.3.0",
     "@stellar/wallet-sdk": "^0.11.2",
