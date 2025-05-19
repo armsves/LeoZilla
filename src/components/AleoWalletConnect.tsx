@@ -28,8 +28,8 @@ export const AleoWalletConnect: FC = () => {
     >
       <WalletModalProvider>
         <WalletMultiButton 
-          className="!w-40 !bg-blue-600 hover:!bg-blue-700 !text-white font-semibold py-2 px-4 rounded-lg transition-colors !text-center justify-center"
-          style={{ minWidth: '10rem', width: '10rem', maxWidth: '100%' }}
+          className="!w-48 !bg-blue-600 hover:!bg-blue-700 !text-white font-semibold py-2 px-4 rounded-lg transition-colors !text-center justify-center"
+          style={{ minWidth: '12rem', width: '12rem', maxWidth: '100%' }}
         />
       </WalletModalProvider>
     </WalletProvider>

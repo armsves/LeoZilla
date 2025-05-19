@@ -1,0 +1,6 @@
+[package]
+name = "ratings"
+version = "0.1.0"
+edition = "2021"
+
+description = "A Leo program for storing and retrieving project ratings." 
