@@ -11,10 +11,10 @@ LeoZilla is a decentralized platform for discovering, rating, and reviewing Web3
 - 🎯 Project activity tracking
 - 🔐 Secure wallet connections
 
-## LEO Smart Contract
+## LEO Program
 
 ```
-CCR6QKTWZQYW6YUJ7UP7XXZRLWQPFRV6SWBLQS4ZQOSAF4BOUD77OTE2
+ratings.aleo
 ```
 
 ## Tech Stack
